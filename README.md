@@ -26,7 +26,7 @@
   
 <div style="display: flex; gap: 10px;">
   <img src="https://64.media.tumblr.com/c51dda6911ce43c3472e70236ba3d14d/b1b6c11a75f99e62-7a/s100x200/2eed9e3a010823fa6e3428f9fdbe97d895e3aa4a.pnj" width="150">
-  <img src="https://64.media.tumblr.com/da3dfc7745991abca46eb87e812040f6/b1b6c11a75f99e62-76/s100x200/35a37bd308ae2fe754b93095ed5ef9e223dd194c.pnj" width="150">
+  <img src="https://static.wikia.nocookie.net/e1b6b4c3-3afc-401f-ba89-4953009a40c9/scale-to-width/755" width="150">
 </div>
      
   <div style="display: flex; gap: 10px;">
