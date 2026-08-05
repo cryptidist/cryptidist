@@ -3,10 +3,13 @@
 <p align="center">
 <img width="500" alt="image" src="https://64.media.tumblr.com/d0fae2286a0da141c7130a3c375adffb/7e9d380aedcb772e-2e/s1280x1920/25feec54f7c5b1aedc66f0346ac3feb49359d190.gifv" />
 <p align="center">
-  ${\textsf{\color{#9e1818}bugs n birds!!!}}$
-<p align="left">      ${\textsf{\color{#cc0000}beverly/malware}}$
+  ${\textsf{\color{#9e1818}ᵇᵘᵍˢ ⁿ ᵇⁱʳᵈˢ!!
+}}$
+<p align="left">      ${\textsf{\color{#cc0000}ᵇᵉᵛᵉʳˡʸ / ᵐᵃˡʷᵃʳᵉ
+}}$
   <p align="right">
-    ${\textsf{\color{#e60000}any/mirror pronouns}}$
+    ${\textsf{\color{#e60000}ᵃⁿʸ/ᵐⁱʳʳᵒʳ ᵖʳᵒⁿᵒᵘⁿˢ
+}}$
       <p align="center">
  <img width="500" alt="image" src="https://64.media.tumblr.com/959a5239813b7e1e69e12ae862a88a1c/b1b6c11a75f99e62-c0/s1280x1920/24f00902e4fc17572cf45355d1aa6a5b88c4cc11.pnj" />
         
