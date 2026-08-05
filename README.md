@@ -31,7 +31,7 @@
      
   <div style="display: flex; gap: 10px;">
   <img src="https://64.media.tumblr.com/a4e1f92fcfdc89dd482b3f57ac251bd3/0d79be5f8e37bdca-65/s250x400/2cf2db78eeb432ade6bb25795a504a3cd138b9dc.gifv" width="150">
-  <img src="https://64.media.tumblr.com/588c485a783611e27fc1874f90f43715/e6bb159767900234-3c/s250x400/157df1f1d34eff44aa6f43437ff3b9cf91154c92.gifv" width="150">
+  <img src="https://64.media.tumblr.com/21098ca980710bbfa7614ea8b3ea6d10/802940509c355658-90/s250x400/38d52210aa697e63790dd68dbf99bcee8a0da2a4.gifv" width="150">
 </div>
 
 <p align="left">
