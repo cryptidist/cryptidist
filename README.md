@@ -10,6 +10,8 @@
 <img width="50" alt="image" src="https://64.media.tumblr.com/261b3f124551279d041a85ab9b0edbbb/00cb86a729bb03b3-87/s75x75_c1/5955ac41ed37d35904251c0be813941216ba6692.gifv" />
 <p align="center">
 <img width="500" alt="image" src="https://64.media.tumblr.com/d0fae2286a0da141c7130a3c375adffb/7e9d380aedcb772e-2e/s1280x1920/25feec54f7c5b1aedc66f0346ac3feb49359d190.gifv" />
+    <p align="center">
+<img width="80" alt="image" src="https://static.wikia.nocookie.net/a36f5caf-04c2-4c5f-b294-2aac092459a4/scale-to-width/755" />
 <p align="center">
   ${\textsf{\color{#9e1818}ᵇᵘᵍˢ ⁿ ᵇⁱʳᵈˢ!!
 }}$
