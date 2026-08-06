@@ -48,13 +48,13 @@
 
 <p align="center">
 
-  ${\textsf{\color{#00c728}ᴷʸˡᵉ ᴮʳᵒᶠˡᵒᵛˢᵏᶦ ⁻ ˢᵒᵘᵗʰ ᴾᵃʳᵏ
+  ${\textsf{\color{#00c78b}ᴬᵉʳᵒʷᵃʳᵉ ⁻ ᴰᶦᵉ ᴼᶠ ᴰᵉᵃᵗʰ
 }}$
 
 <p align="center">
 
 
-  ${\textsf{\color{#00c78b}ᴬᵉʳᵒʷᵃʳᵉ ⁻ ᴰᶦᵉ ᴼᶠ ᴰᵉᵃᵗʰ
+  ${\textsf{\color{#00c728}ᴷʸˡᵉ ᴮʳᵒᶠˡᵒᵛˢᵏᶦ ⁻ ˢᵒᵘᵗʰ ᴾᵃʳᵏ
 }}$
 
   <p align="center">
