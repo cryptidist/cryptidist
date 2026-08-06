@@ -33,6 +33,41 @@
   <img src="https://64.media.tumblr.com/a4e1f92fcfdc89dd482b3f57ac251bd3/0d79be5f8e37bdca-65/s250x400/2cf2db78eeb432ade6bb25795a504a3cd138b9dc.gifv" width="150">
   <img src="https://64.media.tumblr.com/21098ca980710bbfa7614ea8b3ea6d10/802940509c355658-90/s250x400/38d52210aa697e63790dd68dbf99bcee8a0da2a4.gifv" width="150">
 </div>
+  <p align="center">
+
+<details>
+  <summary>characters i rlly like ahh,,</summary>
+
+
+  ${\textsf{\color{#c70098}ZɪM}}$
+
+  <p align="center">
+
+  ${\textsf{\color{#00a2c7}ᴾ⁰³ ⁻ ᴵⁿˢᶜʳʸᵖᵗᶦᵒⁿ
+}}$
+
+<p align="center">
+
+  ${\textsf{\color{#00c728}ᴷʸˡᵉ ᴮʳᵒᶠˡᵒᵛˢᵏᶦ ⁻ ˢᵒᵘᵗʰ ᴾᵃʳᵏ
+}}$
+
+<p align="center">
+
+
+  ${\textsf{\color{#00c78b}ᴬᵉʳᵒʷᵃʳᵉ ⁻ ᴰᶦᵉ ᴼᶠ ᴰᵉᵃᵗʰ
+}}$
+
+  <p align="center">
+
+  ${\textsf{\color{#c7bd00}ᶠˡᵒʷᵉʸ ⁻ ᵁⁿᵈᵉʳᵗᵃˡᵉ
+}}$
+
+  <p align="center">
+
+  ${\textsf{\color{#e60000}ᴾᵉˢᵗ ⁻ ᴿᵉᵍʳᵉᵗᵉᵛᵃᵗᵒʳ
+}}$
+
+</details>
 
 <p align="left">
   
