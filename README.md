@@ -46,6 +46,12 @@
 
   <p align="center">
 
+  ${\textsf{\color{navy}ˢᵗᵃⁿ ᴹᵃʳˢʰ ⁻ ˢᵒᵘᵗʰ ᴾᵃʳᵏ
+}}$
+
+  <p align="center">
+
+
   ${\textsf{\color{#00a2c7}ᴾ⁰³ ⁻ ᴵⁿˢᶜʳʸᵖᵗᶦᵒⁿ
 }}$
 
@@ -54,11 +60,6 @@
   ${\textsf{\color{#00c78b}ᴬᵉʳᵒʷᵃʳᵉ ⁻ ᴰᶦᵉ ᴼᶠ ᴰᵉᵃᵗʰ
 }}$
 
-<p align="center">
-
-
-  ${\textsf{\color{#00c728}ᴷʸˡᵉ ᴮʳᵒᶠˡᵒᵛˢᵏᶦ ⁻ ˢᵒᵘᵗʰ ᴾᵃʳᵏ
-}}$
 
   <p align="center">
 
