@@ -39,7 +39,7 @@
   <p align="center">
 
 <details>
-  <summary>characters i rlly like ahh,,</summary>
+  <summary>characters i rlly like ahh,,(dbls iwecuf!!)</summary>
 
 
   ${\textsf{\color{#c70098}ZɪM}}$
