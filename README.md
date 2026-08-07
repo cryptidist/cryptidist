@@ -15,7 +15,7 @@
 <p align="center">
 <img width="500" alt="image" src="https://64.media.tumblr.com/d0fae2286a0da141c7130a3c375adffb/7e9d380aedcb772e-2e/s1280x1920/25feec54f7c5b1aedc66f0346ac3feb49359d190.gifv" />
     <p align="center">
-<img width="80" alt="image" src="https://static.wikia.nocookie.net/a36f5caf-04c2-4c5f-b294-2aac092459a4/scale-to-width/755" />
+<img width="80" alt="image" src="https://static.wikia.nocookie.net/71eaba26-4294-4973-aa74-96c815224ead/scale-to-width/755" />
 <p align="center">
   ${\textsf{\color{#9e1818}ᵇᵘᵍˢ ⁿ ᵇⁱʳᵈˢ!!
 }}$
