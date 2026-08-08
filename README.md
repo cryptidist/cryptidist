@@ -3,12 +3,12 @@
 <img width="800" alt="image" src="https://64.media.tumblr.com/51bdc06ae3d9af1bf50a0287dad3d7df/055077bfc3e08bab-d2/s1280x1920/4ccd656d1c8f6d8858f8bf9385b306f84d6da4a3.pnj" />
 
   <p align="center">
-<img width="800" alt="image" src="https://static.wikia.nocookie.net/2515c3f5-07b4-4fd1-b210-ae7f823db5df/scale-to-width/755" />
+<img width="300" alt="image" src="https://static.wikia.nocookie.net/2515c3f5-07b4-4fd1-b210-ae7f823db5df/scale-to-width/755" />
     
   <p align="center">
-<img width="150" alt="image" src="https://static.wikia.nocookie.net/49144a24-646f-457c-b83a-b11fae2e156f/scale-to-width/755" />
+<img width="250" alt="image" src="https://static.wikia.nocookie.net/49144a24-646f-457c-b83a-b11fae2e156f/scale-to-width/755" />
       <p align="center">
-<img width="150" alt="image" src="https://static.wikia.nocookie.net/36b22a00-057a-4e69-ac4a-7b6f3f4d55ae/scale-to-width/755" />
+<img width="250" alt="image" src="https://static.wikia.nocookie.net/36b22a00-057a-4e69-ac4a-7b6f3f4d55ae/scale-to-width/755" />
 
   <div align="left">
     
