@@ -16,8 +16,6 @@
 
   <table>
   <tr>
-    <th>
-    </th>
    <html>
 <body>
 <div align="center">
@@ -50,8 +48,6 @@
   <table>
   <tr>
   </tr>
-    <th>
-    </th>
   </table>
   <html>
 <body>
