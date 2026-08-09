@@ -74,7 +74,7 @@
   <img width="150" alt="image" src="https://64.media.tumblr.com/8c5bb61f01228b2f6b2188d5277940e8/4ba036599c095c72-1c/s250x400/ffb32ffe4406a80778cb4e1057017ded09777c3d.gifv" />
 <img width="150" alt="image" src="https://64.media.tumblr.com/01cab1afb7eeef1a3ebf8d82221cf90d/f762b6063732ce95-2e/s100x200/334cf0f3ec03c994ec554457213b982e4e5a7b28.gifv" />
 <img width="150" alt="image" src="https://64.media.tumblr.com/cff9a755097d997ef5a43920663460c1/e9e5eaac84bb2c66-4f/s100x200/6bba68e074780ca40a5469f36e45f200bda12436.gifv" />
-<img width="150" alt="image" src="https://64.media.tumblr.com/3d4d6cd42e2900eb12278f5751563b09/d55d3e1a0e08eb53-0b/s250x400/a18c37d7bea0e298dc40e161726fb97a3e070f07.pnj" />
+<img width="150" alt="image" src="https://static.wikia.nocookie.net/4b94c530-e669-42ab-8a3e-697c880127ea/scale-to-width/755" />
   
   <table>
   <tr>
