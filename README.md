@@ -24,7 +24,7 @@
   <img src="https://64.media.tumblr.com/6a4873c64a4140396726ed6f6be9b322/2892937afd63c936-1b/s100x200/efe918723dd2733efce6be58dd5685fcee533d84.pnj" width="80">
   <img src="https://64.media.tumblr.com/351d12a97902fde7af2bdf3c51747761/2892937afd63c936-f7/s100x200/a6f06c882c1e9acd0e0fcfb8e7c6d28edf3dd537.pnj" width="80">
   <img src="https://64.media.tumblr.com/ae0215b4ba107aa0458e88db3f54c62f/2892937afd63c936-88/s100x200/d17020bbbf517471ea158cb4aed75ff628ef1850.pnj" width="80">
-    <img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/espeon.gif" width="80">
+    <img src="https://static.wikia.nocookie.net/00d5882c-c448-4284-9075-83ccaeaab0ce/scale-to-width/755" width="80">
   <table>
   <tr>
     <th>
